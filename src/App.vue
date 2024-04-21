@@ -57,5 +57,21 @@ export default {
 </script>
 
 <style>
-/* Add your CSS styles here */
+h1 {
+margin: 10px 20px;
+}
+
+input {
+margin: 10px 20px;
+}
+
+button {
+  background-color: lightblue;
+  color: black;
+}
+
+table, th, td {
+  border: 1px solid;
+  margin: 10px 20px;
+}
 </style>
